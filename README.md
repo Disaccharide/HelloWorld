@@ -9,3 +9,5 @@ use markdown to_
 
 ####nice to meet you.  
 learn about typescript now...:)
+
+2016/9/18  first time to use EgertWing
