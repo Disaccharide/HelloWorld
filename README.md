@@ -20,3 +20,4 @@ learn about typescript now...:)
 喜欢画画，但是没有可以练习过所以是儿童画。喜欢写作，但是也是非常狗血的小学生文笔。 
 ###最喜欢的事情是打游戏和睡觉！！！ 
 ……总之就是个死宅【x 
+![](http://r.photo.store.qq.com/psb?/V13d23xz164BVu/nr7beZ8nnwqdh780q.gBUnUZVvHWjtkXj8nwsPHcaX8!/r/dKUAAAAAAAAA)
