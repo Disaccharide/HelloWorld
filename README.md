@@ -12,6 +12,7 @@ learn about typescript now...:)
 
 2016/9/18  first time to use EgertWing
 2016/9/20  first time to draw a pyramid in Egret Wing :D like this↓ 
+（等等等等等我回宿舍截个图【。）
 
 
 我真的不知道写些什么【x 
